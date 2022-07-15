@@ -4,6 +4,7 @@
 *.pyc
 *.pyo
 venv/
+external_ip*
 env/
 env*
 dist/
